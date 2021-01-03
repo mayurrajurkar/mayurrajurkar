@@ -175,6 +175,14 @@ display:table-cell;
   background: #bb0000;
   color: white;
 }
+.fa-github {
+  background: black;
+  color: white;
+}
+.fa-twitter {
+  background: blue;
+  color: white;
+}
 
 .fa-instagram {
   background: #125688;
