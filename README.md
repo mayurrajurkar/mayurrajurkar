@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Second Year Computer Science Student at Government College Of Engineering Aurangabad.
+I am BTech Graduate from  Government College Of Engineering Aurangabad.
 
-In the past two years , I've learned programming languages and technologies and I have built some projects.
 
-I am proficient in Python and have web-scraping ,website and many more.
-
-I started to extend my knowledge in Python to learn Machine Learning.
-
-This year I also learned JavaScript and create web-games.
