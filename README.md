@@ -11,7 +11,7 @@ I'm a passionate Data Engineer with 3+ years of experience building scalable dat
 
 ### 💼 Professional Experience
 - **Data Engineer @ Tata Consultancy Services (TCS)**
-- Working with Fortune 500 clients on large-scale data migration and transformation projects
+- Working on large-scale data migration and transformation projects
 - Specialized in Azure cloud services, PySpark, and modern ETL workflows
 
 ### 🛠️ Technical Skills
