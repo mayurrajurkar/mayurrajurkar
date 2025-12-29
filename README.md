@@ -46,9 +46,7 @@ Built a complete data pipeline to analyze flight delay trends using Azure servic
 - Reduced query execution time by 25%
 - Technologies: Azure Data Factory, Azure Databricks, Azure Data Lake, PySpark
 
-### 📈 GitHub Stats
 
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurrajurkar&show_icons=true&theme=tokyonight)
 
 ### 🌱 Currently Learning
 - Advanced Databricks features and Delta Live Tables
