@@ -1,61 +1,77 @@
-## Hey&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px"> I'm Mayur
+# Hi there, I'm Mayur Rajurkar 👋
 
-[![Website](https://img.shields.io/badge/-Website-fc466b?style=for-the-badge&logoColor=white)](https://mayurrajurkar.github.io/mayurrajurkar/ "Know More About Me")
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-rajurkar-823359192/ "Connect via LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mayurrajurkar11@gmail.com "Connect via Email")
+## 🚀 Data Engineer | Cloud Enthusiast | Azure Specialist
 
-<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayur/ "Connect via Instagram")-->
+I'm a passionate Data Engineer with 3+ years of experience building scalable data pipelines and cloud-based solutions. I specialize in transforming raw data into actionable insights using modern data engineering practices.
 
+### 🔭 What I'm Currently Working On
+- Building end-to-end data pipelines on Azure using Databricks and PySpark
+- Developing serverless ETL workflows with Azure Functions
+- Optimizing big data processing with Apache Spark
 
-#### :house:&nbsp; I am from Wardha, India.
-#### :man_technologist:&nbsp; Currently a  Software Engineer at TCS.  
-#### :heart:&nbsp; Learning new technologies, teaching, and applying them in the real world is my passion!  
-#### 💬 &nbsp; Ask me about anything! Would love to connect and chat about technology !  
+### 💼 Professional Experience
+- **Data Engineer @ Tata Consultancy Services (TCS)**
+- Working with Fortune 500 clients on large-scale data migration and transformation projects
+- Specialized in Azure cloud services, PySpark, and modern ETL workflows
 
-## <div align="center">Tech Stack</div>
-### :zap: Backend
+### 🛠️ Technical Skills
 
-![Node JS](https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-ffffff?logo=flask&logoColor=black&style=for-the-badge)
+**Languages & Frameworks**
+- Python | SQL | PySpark | Spark-SQL
 
- ### :rocket: Infrastructure
+**Big Data Technologies**
+- Apache Spark | Hadoop | Hive | Sqoop
 
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge)
+**Cloud & Azure Services**
+- Azure Databricks | Azure Data Factory | Azure Data Lake Storage
+- Azure Blob Storage | Azure SQL Database | Azure Functions
 
+**Databases**
+- Microsoft SQL Server | MySQL | PostgreSQL | HBase
 
- ### :classical_building: Databases
- 
+**Tools & Platforms**
+- GitHub | Azure DevOps | Jupyter Notebook | Delta Lake
 
-![MySQL](https://img.shields.io/badge/-MySQL-00618A?logo=mysql&logoColor=ffffff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=white&style=for-the-badge)
+### 🏆 Certifications
+- **Databricks Certified Data Engineer Associate** (May 2025 - May 2027)
+- Python for Everybody - Coursera
+- Programming, Data Structures and Algorithms Using Python - NPTEL
+- PySpark for Data Engineers
 
+### 📊 Featured Projects
 
-### :bulb: Languages
+#### 🛫 End-to-End Azure Data Engineering Pipeline
+Built a complete data pipeline to analyze flight delay trends using Azure services
+- Improved data processing speed by 30%
+- Reduced query execution time by 25%
+- Technologies: Azure Data Factory, Azure Databricks, Azure Data Lake, PySpark
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 📈 GitHub Stats
 
-### :paintbrush: Frontend
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurrajurkar&show_icons=true&theme=tokyonight)
 
+### 🌱 Currently Learning
+- Advanced Databricks features and Delta Live Tables
+- Real-time streaming with Apache Kafka
+- MLOps and data pipeline orchestration
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=white&style=for-the-badge)
+### 💡 Areas of Interest
+- Data Pipeline Architecture
+- Cloud Data Engineering
+- Big Data Processing
+- Data Quality & Governance
+- ETL/ELT Best Practices
 
+### 📫 How to Reach Me
+- 📧 Email: mayurrajurkar11@gmail.com
+- 💼 LinkedIn: [Mayur Rajurkar](https://www.linkedin.com/in/mayur-rajurkar-823359192/)
+- 📍 Location: Pune, Maharashtra, India
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CE679A?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚡ Fun Fact
+I've processed terabytes of data and migrated legacy systems to modern cloud platforms, turning data chaos into organized insights!
 
+---
 
-## <div align="center">Stats</div>
+💬 *"Data is the new oil, and I'm here to refine it!"*
 
-<div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mayurrajurkar&custom_title=Mayur+Rajurkar%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
-
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrajurkar&background=00000000&hide_border=true&stroke=878787&ring=2e90ff&fire=2e90ff&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=2bb389&sideLabels=2bb389&dates=dedede" />
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mayurrajurkar.mayurrajurkar)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=mayurrajurkar&color=brightgreen)
